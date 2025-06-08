@@ -8,8 +8,8 @@ A modern, responsive portfolio web application built with Vue.js 3, TypeScript, 
 - **Secure Login System**: Custom login page with form validation
 - **Route Protection**: Authenticated routes with automatic redirects
 - **Demo Credentials**: 
-  - Username: `admin`
-  - Password: `password123`
+  - Username: `jsrquitong`
+  - Password: `hello123`
 
 ### Portfolio Dashboard
 - **Profile Page**: Personal details, skills, experience timeline, and social media links

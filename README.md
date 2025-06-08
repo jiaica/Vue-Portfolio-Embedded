@@ -98,8 +98,8 @@ npm run preview
 
 The application uses a simple authentication system with hardcoded credentials for demonstration purposes:
 
-- **Username**: `admin`
-- **Password**: `password123`
+- **Username**: `jsrquitong`
+- **Password**: `hello123`
 
 Authentication state is managed using localStorage and protected by Vue Router guards.
 
